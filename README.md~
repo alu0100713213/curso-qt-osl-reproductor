@@ -26,12 +26,12 @@ Tareas propuestas para realizar en clase
 
 Se propone realizar las siguientes tareas:
 
-* Añadir menú "Archivo" con opción para "Abrir" un archivo    		OK
-* Añadir menú "Ayuda" con opción "Acerca de" (Heredar de QDialog)	OK
-* Añadir menú "Ver" con opción "Pantalla completa"			OK
-* Añadir opción "Recientes" al menú "Archivo"				OK
-* Añadir opción "Metadatos" en el menú "Ver"				OK
-* Añadir soporte para reproducir fuentes de streaming			
+* Añadir menú "Archivo" con opción para "Abrir" un archivo
+* Añadir menú "Ayuda" con opción "Acerca de" (Heredar de QDialog)
+* Añadir menú "Ver" con opción "Pantalla completa"
+* Añadir opción "Recientes" al menú "Archivo"
+* Añadir opción "Metadatos" en el menú "Ver"
+* Añadir soporte para reproducir fuentes de streaming
 
 Entrega
 ----
